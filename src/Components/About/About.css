@@ -1,0 +1,55 @@
+#about{
+    background-color: #170550;
+    margin-top: -22px;
+    height: 640px;
+}
+
+.aboutcontent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5vh;
+    margin-top: 50px;
+}
+
+#profile{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.abouthead{
+    color: white;
+    text-align: center;
+}
+
+span{
+    color: #F86F03;
+}
+
+#line{
+    margin-top: -27px;
+}
+
+#abouth1{
+    padding-top: 50px;
+}
+
+#abrh1{
+    color: white;
+    text-align: center;
+}
+
+#abrp{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.aboutright{
+    margin-top: 18px;
+}

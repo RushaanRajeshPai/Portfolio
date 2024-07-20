@@ -1,0 +1,41 @@
+.navbarmain{
+    background-color: #170550;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+#navh2{
+    margin-left: 30px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 340px;
+    gap: 6vh;
+    margin-top: 25px;
+    list-style-type: none;
+}
+
+#navbtn{
+    margin-left: 390px;
+    margin-top: 18px;
+    height: 35px;
+    width: 90px;
+    color: #461959;
+    border-radius: 10px;
+    border: 2px solid #170550;
+    font-size: 14px;
+}
+
+#navp:hover,#navh2:hover{
+    color: #F86F03;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+#navbtn:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}

@@ -1,0 +1,97 @@
+.homemain1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5vh;
+}
+
+.sentence {
+    transition: opacity 0.5s ease-in-out;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: -70px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fade-in { 
+    opacity: 1;
+}
+
+.fade-out {
+    opacity: 0;
+}
+
+#home {
+    background-color: #31065A;
+    height: 780px;
+}
+
+.homeleft{
+    margin-top: 200px;
+    text-align: center;
+}
+
+#homeh2{
+    color: #F86F03;
+    font-size: 40px;
+}
+
+#homeh1{
+    color: white;
+    margin-top: -30px;
+    font-size: 60px;
+}
+
+#homeh3{
+    color: white;
+    font-size: 20px;
+    margin-top: -25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.homesocial{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3vh;
+    margin-top: 30px;
+}
+
+#linkedin:hover,#github:hover,#ig:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+#linkedin{
+    width: 45px;
+    height: 45px;
+}
+
+#ig{
+    height: 38px;
+    width: 38px;
+    margin-top: 4px;
+}
+
+#github{
+    width: 45px;
+    height: 45px;
+    margin-top: px;
+}
+
+#homebtndownload{
+    height: 40px;
+    width: 150px;
+    border-radius: 15px;
+    margin-top: 20px;
+    border: 2px solid #31065A;
+    color: white;
+    background-color: #F86F03;
+}
+
+#homebtndownload:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}

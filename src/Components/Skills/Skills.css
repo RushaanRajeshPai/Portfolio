@@ -1,0 +1,74 @@
+#skills{
+    background-color: #170550;
+    height: 900px;
+    margin-top: -27px;
+}
+
+#skillsh1{
+    text-align: center;
+    opacity: 0.6;
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+.devr1{
+    display: flex;
+    flex-direction: row;
+    gap: 15vh;
+    justify-content: center;
+}
+
+#devh2{
+    color: #31065A;
+    margin-top: -10px;
+}
+
+.dev1{
+    background-color: white;
+    height: 130px;
+    width: 150px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.devr2{
+    display: flex;
+    flex-direction: row;
+    gap: 15vh;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#ml{
+    height: 96px;
+    width: 96px;
+    margin-top: 7px;
+}
+
+#figma{
+    margin-top: 5px;
+}
+
+.corer1{
+    display: flex;
+    flex-direction: row;
+    gap: 15vh;
+    justify-content: center;
+}
+
+.dev2{
+    background-color: white;
+    height: 170px;
+    width: 160px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#c{
+    margin-top: 10px;
+}
+
+#x{
+    color: #31065A;
+    margin-top: -5px;
+}

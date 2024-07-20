@@ -1,0 +1,82 @@
+#contact{
+    background-color: #31065A;
+    height: 750px;
+    margin-top: -27px;
+}
+
+.contactbelow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.con1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3vh;
+}
+
+#call{
+    margin-top: 20px;
+}
+
+.contactleft{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.con2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3vh;
+    margin-left: 85px;
+}
+
+.con3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3vh;
+    margin-left: -20px;
+}
+
+#ipname{
+    height: 40px;
+    width: 500px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 1px solid #31065A;
+    padding-left: 10px;
+    background-color: rgb(210, 201, 201);
+}
+
+#ipmsg{
+    height: 150px;
+    width: 500px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 1px solid #31065A;
+    padding: 10px;
+    background-color: rgb(210, 201, 201);
+}
+
+#submitbtn{
+    height: 40px;
+    width: 130px;
+    border-radius: 12px;
+    border: 2px solid #31065A;
+    font-size: 15px;
+    margin-top: 40px;
+    margin-left: 205px;
+}
+
+#submitbtn:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.contactleft:hover{
+    cursor: pointer;
+}

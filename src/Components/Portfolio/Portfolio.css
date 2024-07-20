@@ -1,0 +1,96 @@
+#portfolio{
+    background-color: #31065A;
+    margin-top: -27px;
+    height: 1160px;
+}
+
+#porth1{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+    opacity: 0.6;
+}
+
+#line1{
+    text-align: center;
+    margin-top: -30px;
+}
+
+#porth2{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+}
+
+#gig{
+    margin-top: -255px;
+    height: 700px;
+    width: 400px;
+    object-fit: contain;
+}
+
+#projh2{
+    margin-top: -250px;
+    text-decoration: underline;
+    color: #31065A;
+}
+
+#projh4{
+    color: black;
+    margin-top: -10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.proj1{
+    text-align: center;
+    background-color: white;
+    height: 300px;
+}
+
+.projrow1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#fin{
+    margin-top: -256px;
+    height: 700px;
+    width: 400px;
+    object-fit: contain;
+}
+
+.projrow2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    justify-content: space-evenly;
+}
+
+#projh2:hover{
+    cursor: pointer;
+}
+
+.experience{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#exph2{
+    margin-top: -10px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#str{
+    margin-top: 30px;
+}
+
+#porth2a{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
